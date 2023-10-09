@@ -1,0 +1,181 @@
+{
+  "xpsSettings": {
+    "IncludedCodes": [
+      {
+        "Label": "ExcusedAbsences",
+        "Codes": ["A", "RV", "RA", "E"]
+      },
+      {
+        "Label": "UnexcusedAbsences",
+        "Codes": [
+          "U",
+          "X",
+          "O",
+          "G",
+          "RP",
+          "RB",
+          "RH"
+        ]
+      },
+      {
+        "Label": "ExcusedTardies",
+        "Codes": ["Y"]
+      },
+      {
+        "Label": "UnexcusedTardies",
+        "Codes": [
+          "T"
+        ]
+      }
+    ],
+    "SchoolYears": [
+      {
+        "YearId": "32",
+        "SchoolYear": "2022-23"
+      }
+    ]
+  },
+  "xpsCalendarDayFileNameKeyWords": [
+    "Calendar",
+    "My_Calendar",
+    "LinkIt_Calendar_Day"
+  ],
+  "xpsAttendanceFileNameKeyWords": [
+    "Attendance",
+    "My_Attendance",
+    "LinkIt_Attendance"
+  ],
+  "xpsAttendanceCodeFileNameKeyWords": [
+    "Attendance_Code",
+    "My_Attendance_Code",
+    "LinkIt_Attendance_Code"
+  ],
+  "termDisplayMapping": [
+    {
+      "TermName": "22-23",
+      "DisplayName": "FY"
+    }
+  ],
+  "virtualTestCustomScoreID": 17888,
+  "schoolPerformanceBandVirtualTestScoreSettingID": [],
+  "includedTerms": [
+    "Q1",
+    "Q2",
+    "Q3",
+    "Q4",
+    "T1",
+    "T2",
+    "T3",
+    "S1",
+    "S2",
+    "22-23"
+  ],
+  "fileTemplateSettings": [
+    {
+      "FileType": "xpsAttendanceCode",
+      "Columns": [
+        {
+          "ColumnIndex": 0,
+          "ColumnName": "AttendanceCodeId"
+        },
+        {
+          "ColumnIndex": 4,
+          "ColumnName": "AttendanceCode"
+        },
+        {
+          "ColumnIndex": 11,
+          "ColumnName": "SchoolID"
+        },
+        {
+          "ColumnIndex": 14,
+          "ColumnName": "YearId"
+        }
+      ]
+    },
+    {
+      "FileType": "xpsCalendarDay",
+      "Columns": [
+        {
+          "ColumnIndex": 8,
+          "ColumnName": "Date"
+        },
+        {
+          "ColumnIndex": 11,
+          "ColumnName": "InSession"
+        },
+        {
+          "ColumnIndex": 16,
+          "ColumnName": "SchoolId"
+        }
+      ]
+    },
+    {
+      "FileType": "xpsAttendanceData",
+      "Columns": [
+        {
+          "ColumnIndex": 6,
+          "ColumnName": "AttDate"
+        },
+        {
+          "ColumnIndex": 9,
+          "ColumnName": "AttModeCode"
+        },
+        {
+          "ColumnIndex": 10,
+          "ColumnName": "AttendanceCodeId"
+        },
+        {
+          "ColumnIndex": 20,
+          "ColumnName": "SchoolId"
+        },
+        {
+          "ColumnIndex": 21,
+          "ColumnName": "StudentId"
+        },
+        {
+          "ColumnIndex": 27,
+          "ColumnName": "YearId"
+        }
+      ]
+    }
+  ],
+  "districtPerformanceBandVirtualTestScoreSettingID": 99031,
+  "InputFileColumns": [
+    {
+      "Calc": "([TotalDayPossible] - ISNULL([ExcusedAbsences],0) - ISNULL([UnexcusedAbsences],0))*100.0 / NULLIF([TotalDayPossible],0)",
+      "OutputFileColumnName": "Numeric_1"
+    },
+    {
+      "Calc": "[TotalDayPossible] - ISNULL([ExcusedAbsences],0)- ISNULL([UnexcusedAbsences],0)",
+      "OutputFileColumnName": "Numeric_2"
+    },
+    {
+      "Calc": "[TotalDayPossible]",
+      "OutputFileColumnName": "Numeric_3"
+    },
+    {
+      "Calc": "ISNULL(ExcusedAbsences,0) + ISNULL(UnexcusedAbsences,0)",
+      "OutputFileColumnName": "Cluster 1 Numeric_1"
+    },
+    {
+      "Calc": "ExcusedAbsences",
+      "OutputFileColumnName": "Cluster 1 Numeric_2"
+    },
+    {
+      "Calc": "UnexcusedAbsences",
+      "OutputFileColumnName": "Cluster 1 Numeric_3"
+    },
+    {
+      "Calc": "ISNULL(ExcusedTardies,0) + ISNULL(UnexcusedTardies,0)",
+      "OutputFileColumnName": "Cluster 2 Numeric_1"
+    },
+    {
+      "Calc": "ExcusedTardies",
+      "OutputFileColumnName": "Cluster 2 Numeric_2"
+    },
+    {
+      "Calc": "UnexcusedTardies",
+      "OutputFileColumnName": "Cluster 2 Numeric_3"
+    }
+  ]
+}

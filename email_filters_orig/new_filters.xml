@@ -1,0 +1,329 @@
+<?xml version='1.0' encoding='utf8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:apps="http://schemas.google.com/apps/2006">
+  <title>Mail Filters</title>
+  <entry>
+    <category term="filter"/>
+    <title>Mail Filter</title>
+    <id>tag:mail.google.com,2008:filter:8728694076598404737</id>
+    <updated>2023-07-31T11:24:58Z</updated>
+    <content/>
+    <apps:property name="label" value="Barrington"/>
+    <apps:property name="to" value="*@barringtonschools.net"/>
+  </entry>
+  <entry>
+    <category term="filter"/>
+    <title>Mail Filter</title>
+    <id>tag:mail.google.com,2008:filter:6633644000554289509</id>
+    <updated>2023-07-31T11:24:58Z</updated>
+    <content/>
+    <apps:property name="label" value="Bay Head"/>
+    <apps:property name="to" value="*@bayheadschool.org"/>
+  </entry>
+  <entry>
+    <category term="filter"/>
+    <title>Mail Filter</title>
+    <id>tag:mail.google.com,2008:filter:6644119592402406754</id>
+    <updated>2023-07-31T11:24:58Z</updated>
+    <content/>
+    <apps:property name="label" value="Belvidere"/>
+    <apps:property name="to" value="*@belvideresd.org"/>
+  </entry>
+  <entry>
+    <category term="filter"/>
+    <title>Mail Filter</title>
+    <id>tag:mail.google.com,2008:filter:8854678907363580715</id>
+    <updated>2023-07-31T11:24:58Z</updated>
+    <content/>
+    <apps:property name="label" value="Bergen County"/>
+    <apps:property name="to" value="*@bergen.org"/>
+  </entry>
+  <entry>
+    <category term="filter"/>
+    <title>Mail Filter</title>
+    <id>tag:mail.google.com,2008:filter:2172837182741682605</id>
+    <updated>2023-07-31T11:24:58Z</updated>
+    <content/>
+    <apps:property name="label" value="Brielle"/>
+    <apps:property name="to" value="*@brielleschool.org"/>
+  </entry>
+  <entry>
+    <category term="filter"/>
+    <title>Mail Filter</title>
+    <id>tag:mail.google.com,2008:filter:5164177206511245781</id>
+    <updated>2023-07-31T11:24:58Z</updated>
+    <content/>
+    <apps:property name="label" value="Cheltenham Township"/>
+    <apps:property name="to" value="*@cheltenham.org"/>
+  </entry>
+  <entry>
+    <category term="filter"/>
+    <title>Mail Filter</title>
+    <id>tag:mail.google.com,2008:filter:6873250167103498465</id>
+    <updated>2023-07-31T11:24:58Z</updated>
+    <content/>
+    <apps:property name="label" value="Colonial"/>
+    <apps:property name="to" value="*@colonialsd.org"/>
+  </entry>
+  <entry>
+    <category term="filter"/>
+    <title>Mail Filter</title>
+    <id>tag:mail.google.com,2008:filter:5809044486429465560</id>
+    <updated>2023-07-31T11:24:58Z</updated>
+    <content/>
+    <apps:property name="label" value="Conewago"/>
+    <apps:property name="to" value="*@cvcolonials.org"/>
+  </entry>
+  <entry>
+    <category term="filter"/>
+    <title>Mail Filter</title>
+    <id>tag:mail.google.com,2008:filter:1222251771042336427</id>
+    <updated>2023-07-31T11:24:58Z</updated>
+    <content/>
+    <apps:property name="label" value="Dallas HS"/>
+    <apps:property name="to" value="*@dsdhs.com"/>
+  </entry>
+  <entry>
+    <category term="filter"/>
+    <title>Mail Filter</title>
+    <id>tag:mail.google.com,2008:filter:5049739143392042942</id>
+    <updated>2023-07-31T11:24:58Z</updated>
+    <content/>
+    <apps:property name="label" value="Fort Huachuca"/>
+    <apps:property name="to" value="*@fhasd.org"/>
+  </entry>
+  <entry>
+    <category term="filter"/>
+    <title>Mail Filter</title>
+    <id>tag:mail.google.com,2008:filter:1093578187919895460</id>
+    <updated>2023-07-31T11:24:58Z</updated>
+    <content/>
+    <apps:property name="label" value="Gill Montague"/>
+    <apps:property name="to" value="*@gmrsd.org"/>
+  </entry>
+  <entry>
+    <category term="filter"/>
+    <title>Mail Filter</title>
+    <id>tag:mail.google.com,2008:filter:4077405312914021106</id>
+    <updated>2023-07-31T11:24:58Z</updated>
+    <content/>
+    <apps:property name="label" value="Glenburn"/>
+    <apps:property name="to" value="*@glenburnschool.us"/>
+  </entry>
+  <entry>
+    <category term="filter"/>
+    <title>Mail Filter</title>
+    <id>tag:mail.google.com,2008:filter:4877922608083484978</id>
+    <updated>2023-07-31T11:24:58Z</updated>
+    <content/>
+    <apps:property name="label" value="Greater Egg Harbor"/>
+    <apps:property name="to" value="*@gehrhsd.net"/>
+  </entry>
+  <entry>
+    <category term="filter"/>
+    <title>Mail Filter</title>
+    <id>tag:mail.google.com,2008:filter:3854444859138129589</id>
+    <updated>2023-07-31T11:24:58Z</updated>
+    <content/>
+    <apps:property name="label" value="Hackensack"/>
+    <apps:property name="to" value="*@hackensackschools.org"/>
+  </entry>
+  <entry>
+    <category term="filter"/>
+    <title>Mail Filter</title>
+    <id>tag:mail.google.com,2008:filter:3298448142132030624</id>
+    <updated>2023-07-31T11:24:58Z</updated>
+    <content/>
+    <apps:property name="label" value="Haddon Township"/>
+    <apps:property name="to" value="*@haddontwpschools.com"/>
+  </entry>
+  <entry>
+    <category term="filter"/>
+    <title>Mail Filter</title>
+    <id>tag:mail.google.com,2008:filter:4534987978998627011</id>
+    <updated>2023-07-31T11:24:58Z</updated>
+    <content/>
+    <apps:property name="label" value="Jenkintown"/>
+    <apps:property name="to" value="*@jtowndrakes.org, *@jenkintown.org"/>
+  </entry>
+  <entry>
+    <category term="filter"/>
+    <title>Mail Filter</title>
+    <id>tag:mail.google.com,2008:filter:7989075512320483210</id>
+    <updated>2023-07-31T11:24:58Z</updated>
+    <content/>
+    <apps:property name="label" value="Little Egg Harbor"/>
+    <apps:property name="to" value="*@lehsd.org"/>
+  </entry>
+  <entry>
+    <category term="filter"/>
+    <title>Mail Filter</title>
+    <id>tag:mail.google.com,2008:filter:5763922124897788252</id>
+    <updated>2023-07-31T11:24:58Z</updated>
+    <content/>
+    <apps:property name="label" value="Little Silver"/>
+    <apps:property name="to" value="*@littlesilverschools.org"/>
+  </entry>
+  <entry>
+    <category term="filter"/>
+    <title>Mail Filter</title>
+    <id>tag:mail.google.com,2008:filter:6535744290778955568</id>
+    <updated>2023-07-31T11:24:58Z</updated>
+    <content/>
+    <apps:property name="label" value="MSAD 55"/>
+    <apps:property name="to" value="*@sad55.org"/>
+  </entry>
+  <entry>
+    <category term="filter"/>
+    <title>Mail Filter</title>
+    <id>tag:mail.google.com,2008:filter:5549029498081674592</id>
+    <updated>2023-07-31T11:24:58Z</updated>
+    <content/>
+    <apps:property name="label" value="Methacton"/>
+    <apps:property name="to" value="*@methacton.org"/>
+  </entry>
+  <entry>
+    <category term="filter"/>
+    <title>Mail Filter</title>
+    <id>tag:mail.google.com,2008:filter:1474688147680673562</id>
+    <updated>2023-07-31T11:24:58Z</updated>
+    <content/>
+    <apps:property name="label" value="Metuchen"/>
+    <apps:property name="to" value="*@metboe.k12.nj.us"/>
+  </entry>
+  <entry>
+    <category term="filter"/>
+    <title>Mail Filter</title>
+    <id>tag:mail.google.com,2008:filter:7457845421042286790</id>
+    <updated>2023-07-31T11:24:58Z</updated>
+    <content/>
+    <apps:property name="label" value="Midd-West"/>
+    <apps:property name="to" value="*@mwsd.cc"/>
+  </entry>
+  <entry>
+    <category term="filter"/>
+    <title>Mail Filter</title>
+    <id>tag:mail.google.com,2008:filter:8167860894398960714</id>
+    <updated>2023-07-31T11:24:58Z</updated>
+    <content/>
+    <apps:property name="label" value="Ocean Academy"/>
+    <apps:property name="to" value="*@oceanacademycs.org"/>
+  </entry>
+  <entry>
+    <category term="filter"/>
+    <title>Mail Filter</title>
+    <id>tag:mail.google.com,2008:filter:869232594049723146</id>
+    <updated>2023-07-31T11:24:58Z</updated>
+    <content/>
+    <apps:property name="label" value="Palmer"/>
+    <apps:property name="to" value="*@palmerschools.org"/>
+  </entry>
+  <entry>
+    <category term="filter"/>
+    <title>Mail Filter</title>
+    <id>tag:mail.google.com,2008:filter:4676166072902551902</id>
+    <updated>2023-07-31T11:24:58Z</updated>
+    <content/>
+    <apps:property name="label" value="Pinelands"/>
+    <apps:property name="to" value="*@prsdnj.org"/>
+  </entry>
+  <entry>
+    <category term="filter"/>
+    <title>Mail Filter</title>
+    <id>tag:mail.google.com,2008:filter:1035900669727146921</id>
+    <updated>2023-07-31T11:24:58Z</updated>
+    <content/>
+    <apps:property name="label" value="Pottstown"/>
+    <apps:property name="to" value="*@pottstownk12.org"/>
+  </entry>
+  <entry>
+    <category term="filter"/>
+    <title>Mail Filter</title>
+    <id>tag:mail.google.com,2008:filter:5370375380785478193</id>
+    <updated>2023-07-31T11:24:58Z</updated>
+    <content/>
+    <apps:property name="label" value="RSU 1"/>
+    <apps:property name="to" value="*@rsu1.org"/>
+  </entry>
+  <entry>
+    <category term="filter"/>
+    <title>Mail Filter</title>
+    <id>tag:mail.google.com,2008:filter:7691840876047484677</id>
+    <updated>2023-07-31T11:24:58Z</updated>
+    <content/>
+    <apps:property name="label" value="Region 12"/>
+    <apps:property name="to" value="*@region-12.org"/>
+  </entry>
+  <entry>
+    <category term="filter"/>
+    <title>Mail Filter</title>
+    <id>tag:mail.google.com,2008:filter:7904196618702118207</id>
+    <updated>2023-07-31T11:24:58Z</updated>
+    <content/>
+    <apps:property name="label" value="Rockwood Area"/>
+    <apps:property name="to" value="*@rockwoodschools.org"/>
+  </entry>
+  <entry>
+    <category term="filter"/>
+    <title>Mail Filter</title>
+    <id>tag:mail.google.com,2008:filter:3120218011349960940</id>
+    <updated>2023-07-31T11:24:58Z</updated>
+    <content/>
+    <apps:property name="label" value="Roselle Public"/>
+    <apps:property name="to" value="*@roselleschools.org"/>
+  </entry>
+  <entry>
+    <category term="filter"/>
+    <title>Mail Filter</title>
+    <id>tag:mail.google.com,2008:filter:312581624470033704</id>
+    <updated>2023-07-31T11:24:58Z</updated>
+    <content/>
+    <apps:property name="label" value="Saco"/>
+    <apps:property name="to" value="*@sacoschools.org"/>
+  </entry>
+  <entry>
+    <category term="filter"/>
+    <title>Mail Filter</title>
+    <id>tag:mail.google.com,2008:filter:6091750931220050646</id>
+    <updated>2023-07-31T11:24:58Z</updated>
+    <content/>
+    <apps:property name="label" value="Sandwich"/>
+    <apps:property name="to" value="*@sandwich.k12.ma.us"/>
+  </entry>
+  <entry>
+    <category term="filter"/>
+    <title>Mail Filter</title>
+    <id>tag:mail.google.com,2008:filter:7378486677982307754</id>
+    <updated>2023-07-31T11:24:58Z</updated>
+    <content/>
+    <apps:property name="label" value="Stoneham"/>
+    <apps:property name="to" value="*@stonehamschools.org"/>
+  </entry>
+  <entry>
+    <category term="filter"/>
+    <title>Mail Filter</title>
+    <id>tag:mail.google.com,2008:filter:4929164201020093893</id>
+    <updated>2023-07-31T11:24:58Z</updated>
+    <content/>
+    <apps:property name="label" value="Waterford"/>
+    <apps:property name="to" value="*@lmtsd.org"/>
+  </entry>
+  <entry>
+    <category term="filter"/>
+    <title>Mail Filter</title>
+    <id>tag:mail.google.com,2008:filter:8174797475038878684</id>
+    <updated>2023-07-31T11:24:58Z</updated>
+    <content/>
+    <apps:property name="label" value="Western PA School for the Deaf"/>
+    <apps:property name="to" value="*@wpsd.org"/>
+  </entry>
+  <entry>
+    <category term="filter"/>
+    <title>Mail Filter</title>
+    <id>tag:mail.google.com,2008:filter:5017440905855077830</id>
+    <updated>2023-07-31T11:24:58Z</updated>
+    <content/>
+    <apps:property name="label" value="Westmont Hilltop"/>
+    <apps:property name="to" value="*@whsd.org"/>
+  </entry>
+</feed>
+

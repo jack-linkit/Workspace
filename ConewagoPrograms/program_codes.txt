@@ -1,0 +1,14 @@
+EcoDis|F|R|D
+ELL|LEP
+504
+SpecEd|Autism|Emotional Disturbance|Hearing Impaired|MR|Mult. Disabilities|Ortho impairment|Other health impairment|Specific learning disability|Speech|Traumatic Brain Injury|Visual Impairment
+Title I
+GenEd
+Non 504
+Gifted/Talented
+NonELL
+Non-Title 1
+N
+D
+F
+R

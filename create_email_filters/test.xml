@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:apps="http://schemas.google.com/apps/2006">
+  <title>Mail Filters</title>
+  <entry>
+    <category term="filter"/>
+    <title>Mail Filter</title>
+    <id>tag:mail.google.com,2008:filter:4495531829349407864</id>
+    <updated>2023-08-01T16:03:43Z</updated>
+    <content/>
+    <apps:property name="label" value="Test"/>
+    <apps:property name="to" value="barrin.net"/>
+  </entry>
+</feed>
+

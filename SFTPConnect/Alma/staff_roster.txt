@@ -1,0 +1,260 @@
+Role	"School Name"	"School Code"	"Last Name"	"First Name"	"User Name"	"User Code"	"Teacher State Code"	Phone	Email
+"School Administrator"	"Scranton School for Deaf and Hard of Hearing Children"	300029840	Dent	Amy	amy.dent			"(412) 244-3100"	adent@wpsd.org
+"School Administrator"	"Western Pennsylvania School for the Deaf"	300029840	Dent	Amy	amy.dent			"(412) 244-3100"	adent@wpsd.org
+"School Administrator (Non-Edit Rights)"	"Western Pennsylvania School for the Deaf"	300029840	Mendenhall	Greg	greg.mendenhall				gmendenhall@wpsd.org
+"School Administrator"	"Western Pennsylvania School for the Deaf"	300029840	Sheron	Skyler	skyler.sheron				ssheron@wpsd.org
+"School Administrator"	"Scranton School for Deaf and Hard of Hearing Children"		Pientack	Alexis	alexis.pientack				apientack@thescrantonschool.org
+"School Administrator (Non-Edit Rights)"	"Scranton School for Deaf and Hard of Hearing Children"		Pettinato	Dean	dean.pettinato				dpettinato@thescrantonschool.org
+"School Administrator"	"Scranton School for Deaf and Hard of Hearing Children"		Doran	Lori	lori.doran				ldoran@thescrantonschool.org
+Teacher	"Western Pennsylvania School for the Deaf"	300029840	Auden	Wendy	wendy.auden				wauden@wpsd.org
+"Support Staff"	"Western Pennsylvania School for the Deaf"	300029840	Zahorchak	Sonya	sonya.zahorchak				szahorchak@wpsd.org
+Teacher	"Western Pennsylvania School for the Deaf"	300029840	Stinglin	Kendra	kendra.stinglin				kstinglin@wpsd.org
+"Nursing Staff"	"Western Pennsylvania School for the Deaf"	300029840	Possumato	Nancy	nancy.possumato				npossumato@wpsd.org
+"Nursing Staff"	"Scranton School for Deaf and Hard of Hearing Children"	300029840	Possumato	Nancy	nancy.possumato				npossumato@wpsd.org
+"General Staff"	"Western Pennsylvania School for the Deaf"	300029840	Hayes	Lauren	lauren.hayes				lhayes@wpsd.org
+"School Administrator (Non-Edit Rights)"	"Scranton School for Deaf and Hard of Hearing Children"	300029840	Rain	Carrie	carrie.rain				crain@wpsd.org
+"School Administrator (Non-Edit Rights)"	"Western Pennsylvania School for the Deaf"	300029840	Rain	Carrie	carrie.rain				crain@wpsd.org
+"School Administrator (Non-Edit Rights)"	"Western Pennsylvania School for the Deaf"	300029840	Halik	Tom	tom.halik				thalik@wpsd.org
+"School Administrator (Non-Edit Rights)"	"Western Pennsylvania School for the Deaf"	300029840	Marks	Jessica	jessica.marks				jmarks@wpsd.org
+"Support Staff"	"Western Pennsylvania School for the Deaf"	300029840	Reilly	Abigail	abigail.reilly				areilly@wpsd.org
+"School Administrator (Non-Edit Rights)"	"Western Pennsylvania School for the Deaf"	300029840	Estes	Bill	bill.estes				bestes@wpsd.org
+"General Staff"	"Western Pennsylvania School for the Deaf"	300029840	Mahnick	Bonnie	bonnie.mahnick				bmahnick@wpsd.org
+"School Administrator (Non-Edit Rights)"	"Western Pennsylvania School for the Deaf"	300029840	Mazreku	Donald	donald.mazreku				dmazreku@wpsd.org
+"School Administrator (Non-Edit Rights)"	"Western Pennsylvania School for the Deaf"	300029840	Morris	Jennifer	jennifer.morris				jmorris@wpsd.org
+"School Administrator (Non-Edit Rights)"	"Western Pennsylvania School for the Deaf"	300029840	Stuber	Jennifer	jennifer.stuber				jstuber@wpsd.org
+"School Administrator (Non-Edit Rights)"	"Western Pennsylvania School for the Deaf"	300029840	Chinchic	Anna	anna.chinchic				achinchic@wpsd.org
+"School Administrator (Non-Edit Rights)"	"Western Pennsylvania School for the Deaf"	300029840	McDonough	Sue	sue.mcdonough				smcdonough@wpsd.org
+"School Administrator (Non-Edit Rights)"	"Western Pennsylvania School for the Deaf"	300029840	Mendis	Jenny	jenny.mendis				jmendis@wpsd.org
+"Support Staff"	"Western Pennsylvania School for the Deaf"	300029840	Barefoot	Judy	judy.barefoot				jbarefoot@wpsd.org
+"School Administrator (Non-Edit Rights)"	"Western Pennsylvania School for the Deaf"	300029840	Taslov	Judy	judy.taslov				jtaslov@wpsd.org
+"General Staff"	"Western Pennsylvania School for the Deaf"	300029840	Quagliani	Steve	steve.quagliani				squagliani@wpsd.org
+"General Staff"	"Western Pennsylvania School for the Deaf"	300029840	Hancock	Barbara	barbara.hancock				bhancock@wpsd.org
+"School Administrator (Non-Edit Rights)"	"Western Pennsylvania School for the Deaf"	300029840	Vereb	Sara	sara.vereb				svereb@wpsd.org
+"General Staff"	"Western Pennsylvania School for the Deaf"	300029840	Campion	Matt	matt.campion				mcampion@wpsd.org
+"General Staff"	"Western Pennsylvania School for the Deaf"	300029840	Kropp	Robert	robert.kropp				rkropp@wpsd.org
+"General Staff"	"Western Pennsylvania School for the Deaf"	300029840	Belavic	Sean	sean.belavic				sbelavic@wpsd.org
+"General Staff"	"Western Pennsylvania School for the Deaf"	300029840	Walton	Tom	tom.walton				twalton@wpsd.org
+"School Administrator (Non-Edit Rights)"	"Western Pennsylvania School for the Deaf"	300029840	Smith	Venita	venita.smith				vsmith@wpsd.org
+"General Staff"	"Western Pennsylvania School for the Deaf"	300029840	Behanna	Todd	todd.behanna				tbehanna@wpsd.org
+"General Staff"	"Western Pennsylvania School for the Deaf"	300029840	Gentile	Tom	tom.gentile				tgentile@wpsd.org
+"General Staff"	"Western Pennsylvania School for the Deaf"	300029840	Walterhouse	Joshua	joshua.walterhouse				jwalterhouse@wpsd.org
+"General Staff"	"Western Pennsylvania School for the Deaf"	300029840	Boles	John	john.boles				idealadmin@wpsd.org
+"General Staff"	"Western Pennsylvania School for the Deaf"	300029840	Bartlebaugh	Sarah	sarah.bartlebaugh				sbartlebaugh@wpsd.org
+"Support Staff"	"Western Pennsylvania School for the Deaf"	300029840	Langer	Linda	linda.langer				llanger@wpsd.org
+"General Staff"	"Western Pennsylvania School for the Deaf"	300029840	Sage	Tom	tom.sage				tsage@wpsd.org
+"General Staff"	"Western Pennsylvania School for the Deaf"	300029840	Dumblosky	Tony	tony.dumblosky				tdumblosky@wpsd.org
+"General Staff"	"Western Pennsylvania School for the Deaf"	300029840	Majocha	Alan	alan.majocha				amajocha@wpsd.org
+"General Staff"	"Western Pennsylvania School for the Deaf"	300029840	Kite	Mark	mark.kite				mkite@wpsd.org
+"General Staff"	"Western Pennsylvania School for the Deaf"	300029840	McNamara	Dan	dan.mcnamara				dmcnamara@wpsd.org
+"General Staff"	"Western Pennsylvania School for the Deaf"	300029840	Barnett	Dennis	dennis.barnett				dbarnett@wpsd.org
+"General Staff"	"Western Pennsylvania School for the Deaf"	300029840	Downes	Doug	doug.downes				ddownes@wpsd.org
+"General Staff"	"Western Pennsylvania School for the Deaf"	300029840	McKay	Linda	linda.mckay				lmckay@wpsd.org
+"General Staff"	"Western Pennsylvania School for the Deaf"	300029840	D'Amore	George	george.d'amore				gdamore@wpsd.org
+"General Staff"	"Western Pennsylvania School for the Deaf"	300029840	Breight	Linda	linda.breight				lbreight@wpsd.org
+"General Staff"	"Western Pennsylvania School for the Deaf"	300029840	Poilucci	Carrie	carrie.poilucci				cpoilucci@wpsd.org
+"General Staff"	"Western Pennsylvania School for the Deaf"	300029840	Fisher	Sharon	sharon.fisher				sfisher@wpsd.org
+"General Staff"	"Western Pennsylvania School for the Deaf"	300029840	Wattick	Jamie	jamie.wattick				jwattick@wpsd.org
+"General Staff"	"Western Pennsylvania School for the Deaf"	300029840	Zurawski	David	david.zurawski				dzurawski@wpsd.org
+"General Staff"	"Western Pennsylvania School for the Deaf"	300029840	Caracci	Oyamo	oyamo.caracci				ocaracci@wpsd.org
+"General Staff"	"Western Pennsylvania School for the Deaf"	300029840	Calloway	Kim	kim.calloway				kcalloway@wpsd.org
+"General Staff"	"Western Pennsylvania School for the Deaf"	300029840	DelCimmuto	Michael	michael.delcimmuto				mdelcimmuto@wpsd.org
+"General Staff"	"Western Pennsylvania School for the Deaf"	300029840	Hawkins-D'Angelo	Kimberly	kimberly.hawkins-d'angelo				khawkins-d'angelo@wpsd.org
+"General Staff"	"Western Pennsylvania School for the Deaf"	300029840	Fajardo	Arlyn	arlyn.fajardo				afajardo@wpsd.org
+"General Staff"	"Western Pennsylvania School for the Deaf"	300029840	Helffrich	Paul	paul.helffrich				phelffrich@wpsd.org
+"General Staff"	"Western Pennsylvania School for the Deaf"	300029840	Hancock	Courtney	courtney.hancock				chancock@wpsd.org
+"General Staff"	"Western Pennsylvania School for the Deaf"	300029840	Gallo	Joseph	joseph.gallo				jgallo@wpsd.org
+"General Staff"	"Western Pennsylvania School for the Deaf"	300029840	Dunbar	Eric	eric.dunbar				edunbar@wpsd.org
+"General Staff"	"Western Pennsylvania School for the Deaf"	300029840	Chytil	William	william.chytil				wchytil@wpsd.org
+"General Staff"	"Western Pennsylvania School for the Deaf"	300029840	Johnson	Michael	michael.johnson				mjohnson@wpsd.org
+"General Staff"	"Western Pennsylvania School for the Deaf"	300029840	Hottle	Johnathan	johnathan.hottle				jhottle@wpsd.org
+Teacher	"Western Pennsylvania School for the Deaf"	300029840	Johnstein	Marla	marla.johnstein				mjohnstein@wpsd.org
+"General Staff"	"Western Pennsylvania School for the Deaf"	300029840	Johnston	Audrey	audrey.johnston				ajohnston@wpsd.org
+"General Staff"	"Western Pennsylvania School for the Deaf"	300029840	Kaminski	Phillip	phillip.kaminski				pkaminski@wpsd.org
+"Support Staff"	"Western Pennsylvania School for the Deaf"	300029840	Jones	Megan	megan.jones				mjones@wpsd.org
+"Support Staff"	"Scranton School for Deaf and Hard of Hearing Children"	300029840	Jones	Megan	megan.jones				mjones@wpsd.org
+"General Staff"	"Western Pennsylvania School for the Deaf"	300029840	Kite	Barbara	barbara.kite				bkite@wpsd.org
+"General Staff"	"Western Pennsylvania School for the Deaf"	300029840	Maher	Robert	robert.maher				rmaher@wpsd.org
+"General Staff"	"Western Pennsylvania School for the Deaf"	300029840	Le	Carlos	carlos.le				cle@wpsd.org
+"General Staff"	"Western Pennsylvania School for the Deaf"	300029840	Liptak	Steve	steve.liptak				sliptak@wpsd.org
+"General Staff"	"Western Pennsylvania School for the Deaf"	300029840	Lilley	Jarred	jarred.lilley				jlilley@wpsd.org
+"General Staff"	"Western Pennsylvania School for the Deaf"	300029840	Koricich	Kirstie	kirstie.koricich				kkoricich@wpsd.org
+"General Staff"	"Western Pennsylvania School for the Deaf"	300029840	Majocha	Jan	jan.majocha				jmajocha@wpsd.org
+"General Staff"	"Western Pennsylvania School for the Deaf"	300029840	McCray	Anita	anita.mccray				amccray@wpsd.org
+"General Staff"	"Western Pennsylvania School for the Deaf"	300029840	McMahon	James	james.mcmahon				jmcmahon@wpsd.org
+"General Staff"	"Western Pennsylvania School for the Deaf"	300029840	Miller	Pam	pam.miller				pmiller@wpsd.org
+"General Staff"	"Western Pennsylvania School for the Deaf"	300029840	Mejia	Amanda	amanda.mejia				amejia@wpsd.org
+"General Staff"	"Western Pennsylvania School for the Deaf"	300029840	Mendel	Holly	holly.mendel				hmendel@wpsd.org
+"General Staff"	"Western Pennsylvania School for the Deaf"	300029840	Passante	Ashley	ashley.passante				apassante@wpsd.org
+"General Staff"	"Western Pennsylvania School for the Deaf"	300029840	Podolsky	Seth	seth.podolsky				spodolsky@wpsd.org
+"General Staff"	"Western Pennsylvania School for the Deaf"	300029840	Reiss	Jeff	jeff.reiss				jreiss@wpsd.org
+"General Staff"	"Western Pennsylvania School for the Deaf"	300029840	Rossey	Pam	pam.rossey				prossey@wpsd.org
+"General Staff"	"Western Pennsylvania School for the Deaf"	300029840	Mitlo	Rachel	rachel.mitlo				rmitlo@wpsd.org
+"General Staff"	"Western Pennsylvania School for the Deaf"	300029840	Noschese	John	john.noschese				jnoschese@wpsd.org
+"General Staff"	"Western Pennsylvania School for the Deaf"	300029840	Russo	Rachel	rachel.russo				rrusso@wpsd.org
+"School Administrator (Non-Edit Rights)"	"Western Pennsylvania School for the Deaf"	300029840	Weissert	Dan	dan.weissert				dweissert@wpsd.org
+"School Administrator (Non-Edit Rights)"	"Scranton School for Deaf and Hard of Hearing Children"	300029840	Weissert	Dan	dan.weissert				dweissert@wpsd.org
+"School Administrator (Non-Edit Rights)"	"Western Pennsylvania School for the Deaf"	300029840	Stanton	Thomas	thomas.stanton				tstanton@wpsd.org
+"General Staff"	"Western Pennsylvania School for the Deaf"	300029840	Swiatek	Paul	paul.swiatek				pswiatek@wpsd.org
+"General Staff"	"Western Pennsylvania School for the Deaf"	300029840	Vigliotti	Michele	michele.vigliotti				mvigliotti@wpsd.org
+"Support Staff"	"Western Pennsylvania School for the Deaf"	300029840	Prezioso	Tatiana	tatiana.prezioso				tprezioso@wpsd.org
+"General Staff"	"Western Pennsylvania School for the Deaf"	300029840	Tissue	Ed	ed.tissue				etissue@wpsd.org
+"Support Staff"	"Western Pennsylvania School for the Deaf"	300029840	DeRise	Fabrienne	fabrienne.derise				fderise@wpsd.org
+Teacher	"Western Pennsylvania School for the Deaf"	300029840	Sullivan	Kathie	kathie.sullivan				ksullivan@wpsd.org
+"General Staff"	"Western Pennsylvania School for the Deaf"	300029840	Totino	Elizabeth	elizabeth.totino				etotino@wpsd.org
+"Support Staff"	"Western Pennsylvania School for the Deaf"	300029840	Kirkpatrick	Carolyn	carolyn.kirkpatrick				ckirkpatrick@wpsd.org
+"Support Staff"	"Western Pennsylvania School for the Deaf"	300029840	Fisher	John	john.fisher				jfisher@wpsd.org
+"Nursing Staff"	"Western Pennsylvania School for the Deaf"	300029840	McDonald	Gina	gina.mcdonald				gmcdonald@wpsd.org
+"Nursing Staff"	"Scranton School for Deaf and Hard of Hearing Children"	300029840	McDonald	Gina	gina.mcdonald				gmcdonald@wpsd.org
+"Nursing Staff"	"Western Pennsylvania School for the Deaf"	300029840	Beers	Kristen	kristen.beers				kbeers@wpsd.org
+"Nursing Staff"	"Scranton School for Deaf and Hard of Hearing Children"	300029840	Beers	Kristen	kristen.beers				kbeers@wpsd.org
+"Support Staff"	"Western Pennsylvania School for the Deaf"	300029840	Stiff	Heather	heather.stiff				hstiff@wpsd.org
+"Support Staff"	"Western Pennsylvania School for the Deaf"	300029840	Fisher-Evangelista	Anne	anne.fisher-evangelista				aevangelista@wpsd.org
+"Support Staff"	"Western Pennsylvania School for the Deaf"	300029840	Raether	Kirsten	kirsten.raether				kraether@wpsd.org
+"Support Staff"	"Western Pennsylvania School for the Deaf"	300029840	McTighe	Janine	janine.mctighe				jmctighe@wpsd.org
+"Support Staff"	"Western Pennsylvania School for the Deaf"	300029840	Espin	Amanda	amanda.espin				aespin@wpsd.org
+"School Administrator (Non-Edit Rights)"	"Western Pennsylvania School for the Deaf"	300029840	Abraham	Tina	tina.abraham				tabraham@wpsd.org
+"Support Staff"	"Western Pennsylvania School for the Deaf"	300029840	Betz	Katrina	katrina.betz				katrinabetz@wpsd.org
+"Support Staff"	"Western Pennsylvania School for the Deaf"	300029840	Leskovic	Gina	gina.leskovic				gleskovic@wpsd.org
+"Support Staff"	"Western Pennsylvania School for the Deaf"	300029840	Harbourne	Kira	kira.harbourne				kharbourne@wpsd.org
+"Support Staff"	"Scranton School for Deaf and Hard of Hearing Children"	300029840	Estes	Molly	molly.estes				mestes@wpsd.org
+"Support Staff"	"Western Pennsylvania School for the Deaf"	300029840	Estes	Molly	molly.estes				mestes@wpsd.org
+"Support Staff"	"Western Pennsylvania School for the Deaf"	300029840	Schriever	Teresa	teresa.schriever				tschriever@wpsd.org
+"Support Staff"	"Western Pennsylvania School for the Deaf"	300029840	Steinmetz	Rebecca	rebecca.steinmetz				rsteinmetz@wpsd.org
+"Support Staff"	"Western Pennsylvania School for the Deaf"	300029840	Royba	Alyse	alyse.royba				aroyba@wpsd.org
+Teacher	"Western Pennsylvania School for the Deaf"	300029840	Remis	Deborah	deborah.remis				dremis@wpsd.org
+"School Administrator (Non-Edit Rights)"	"Western Pennsylvania School for the Deaf"	300029840	Anderson	Beth	beth.anderson				banderson@wpsd.org
+Teacher	"Western Pennsylvania School for the Deaf"	300029840	Slavinsky	Brian	brian.slavinsky				bslavinsky@wpsd.org
+Teacher	"Western Pennsylvania School for the Deaf"	300029840	Barkey	Jenna	jenna.barkey				jbarkey@wpsd.org
+Teacher	"Western Pennsylvania School for the Deaf"	300029840	Bartholow	Kathy	kathy.bartholow				kbartholow@wpsd.org
+Teacher	"Western Pennsylvania School for the Deaf"	300029840	Beveridge	Cassie	cassie.beveridge1				cbeveridge@wpsd.org
+Teacher	"Western Pennsylvania School for the Deaf"	300029840	Behanna	"Mary Agnes"	maryagnes.behanna				mbehanna@wpsd.org
+Teacher	"Western Pennsylvania School for the Deaf"	300029840	Borelle	Nicole	nicole.borelle				nborelle@wpsd.org
+Teacher	"Western Pennsylvania School for the Deaf"	300029840	Blahut	Mary	mary.blahut				mennis@wpsd.org
+Teacher	"Western Pennsylvania School for the Deaf"	300029840	Diesenberg	Lauren	lauren.diesenberg				ldiesenberg@wpsd.org
+Teacher	"Western Pennsylvania School for the Deaf"	300029840	Bowden	Amy	amy.bowden				abowden@wpsd.org
+Teacher	"Western Pennsylvania School for the Deaf"	300029840	Dailey	Dana	dana.dailey				ddailey@wpsd.org
+"School Administrator (Non-Edit Rights)"	"Western Pennsylvania School for the Deaf"	300029840	Colville	Michele	michele.colville				mcolville@wpsd.org
+Teacher	"Western Pennsylvania School for the Deaf"	300029840	Dunbar	Pauline	pauline.dunbar				pdunbar@wpsd.org
+Teacher	"Western Pennsylvania School for the Deaf"	300029840	Fenicle	Amy	amy.fenicle				afenicle@wpsd.org
+Teacher	"Western Pennsylvania School for the Deaf"	300029840	Gerlach	Shari	shari.gerlach				sgerlach@wpsd.org
+Teacher	"Western Pennsylvania School for the Deaf"	300029840	Freilino	Gary	gary.freilino				gfreilino@wpsd.org
+Teacher	"Western Pennsylvania School for the Deaf"	300029840	Gibson	John	john.gibson				jgibson@wpsd.org
+Teacher	"Western Pennsylvania School for the Deaf"	300029840	Hand	Michael	michael.hand				mhand@wpsd.org
+Teacher	"Western Pennsylvania School for the Deaf"	300029840	Mountain	"Julie Ann"	julieann.mountain				jamountain@wpsd.org
+Teacher	"Western Pennsylvania School for the Deaf"	300029840	McCall	Gail	gail.mccall				gmccall@wpsd.org
+Teacher	"Western Pennsylvania School for the Deaf"	300029840	Miara	Amy	amy.miara1				amiara@wpsd.org
+Teacher	"Western Pennsylvania School for the Deaf"	300029840	Gracey	Katherine	katherine.gracey				kgracey@wpsd.org
+Teacher	"Western Pennsylvania School for the Deaf"	300029840	Homell	Christie	christie.homell				chomell@wpsd.org
+"School Administrator"	"Western Pennsylvania School for the Deaf"	300029840	Nikou	Tara	tara.nikou			"(412) 244-4268"	tnikou@wpsd.org
+Teacher	"Western Pennsylvania School for the Deaf"	300029840	Mosholder	Kristi	kristi.mosholder				kmosholder@wpsd.org
+"School Administrator (Non-Edit Rights)"	"Western Pennsylvania School for the Deaf"	300029840	Noschese	Mary	mary.noschese				mnoschese@wpsd.org
+Teacher	"Western Pennsylvania School for the Deaf"	300029840	Patton	"Margi Jo"	margijo.patton				mpatton@wpsd.org
+Teacher	"Western Pennsylvania School for the Deaf"	300029840	Ryan	Michele	michele.ryan				mryan@wpsd.org
+Teacher	"Western Pennsylvania School for the Deaf"	300029840	Redfern	"Mary Jo"	maryjo.redfern				mredfern@wpsd.org
+Teacher	"Western Pennsylvania School for the Deaf"	300029840	Wojton	Val	val.wojton				vwojton@wpsd.org
+Teacher	"Western Pennsylvania School for the Deaf"	300029840	Wing	Amy	amy.wing				awing@wpsd.org
+Teacher	"Western Pennsylvania School for the Deaf"	300029840	Wilkins	Chelsea	chelsea.wilkins				chwilkins@wpsd.org
+Teacher	"Western Pennsylvania School for the Deaf"	300029840	Zelei	Michelle	michelle.zelei				mzelei@wpsd.org
+Teacher	"Western Pennsylvania School for the Deaf"	300029840	Giancola	Lily	lily.giancola				lgiancola@wpsd.org
+Teacher	"Western Pennsylvania School for the Deaf"	300029840	Hine	Krista	krista.hine				khine@wpsd.org
+Teacher	"Western Pennsylvania School for the Deaf"	300029840	Maher	Angel	angel.maher				amaher@wpsd.org
+Teacher	"Western Pennsylvania School for the Deaf"	300029840	McCarthy	James	james.mccarthy				jmccarthy@wpsd.org
+Teacher	"Western Pennsylvania School for the Deaf"	300029840	Mendenhall	Kallie	kallie.mendenhall				kmendenhall@wpsd.org
+Teacher	"Western Pennsylvania School for the Deaf"	300029840	Miller	Mary	mary.miller				mmiller@wpsd.org
+Teacher	"Western Pennsylvania School for the Deaf"	300029840	Moriarty	Anissa	anissa.moriarty				amoriarty@wpsd.org
+Teacher	"Western Pennsylvania School for the Deaf"	300029840	Mitchell	Emily	emily.mitchell				emitchell@wpsd.org
+Teacher	"Western Pennsylvania School for the Deaf"	300029840	Moore	Alexandra	alexandra.moore				amoore@wpsd.org
+Teacher	"Western Pennsylvania School for the Deaf"	300029840	Possumato	Derek	derek.possumato				dpossumato@wpsd.org
+Teacher	"Western Pennsylvania School for the Deaf"	300029840	Mosholder	Caitlin	caitlin.mosholder				cmosholder@wpsd.org
+Teacher	"Western Pennsylvania School for the Deaf"	300029840	"Van Nosdale"	Annie	annie.vannosdale				avannosdale@wpsd.org
+Teacher	"Western Pennsylvania School for the Deaf"	300029840	Repak	Julie	julie.repak				jrepak@wpsd.org
+Teacher	"Western Pennsylvania School for the Deaf"	300029840	Ricci	Abigail	abigail.ricci				aricci@wpsd.org
+Teacher	"Western Pennsylvania School for the Deaf"	300029840	Rose	Rachel	rachel.rose				rrose@wpsd.org
+"General Staff"	"Western Pennsylvania School for the Deaf"	300029840	Dixon	Doug	doug.dixon				ddixon@wpsd.org
+"General Staff"	"Western Pennsylvania School for the Deaf"	300029840	Sloan	Russell	russell.sloan				rsloan@wpsd.org
+"General Staff"	"Western Pennsylvania School for the Deaf"	300029840	Shields	Donnell	donnell.shields				dshields@wpsd.org
+Teacher	"Western Pennsylvania School for the Deaf"	300029840	Cochran	Abigail	abigail.cochran				acochran@wpsd.org
+"School Administrator (Non-Edit Rights)"	"Scranton School for Deaf and Hard of Hearing Children"		Stefko	"Mary Ann"	maryann.stefko				mstefko@thescrantonschool.org
+"School Administrator (Non-Edit Rights)"	"Scranton School for Deaf and Hard of Hearing Children"		Ward	Cyndy	cyndy.ward				cward@thescrantonschool.org
+"Support Staff"	"Scranton School for Deaf and Hard of Hearing Children"		Zeigler	Jim	jim.zeigler				jzeigler@thescrantonschool.org
+"Support Staff"	"Scranton School for Deaf and Hard of Hearing Children"		Boersma	Doug	doug.boersma				dboersma@thescrantonschool.org
+"School Administrator"	"Scranton School for Deaf and Hard of Hearing Children"		Azevedo	Filipe	filipe.azevedo				fazevedo@thescrantonschool.org
+"School Administrator (Non-Edit Rights)"	"Scranton School for Deaf and Hard of Hearing Children"		Munley	Bridget	bridget.munley				bmunley@thescrantonschool.org
+"Support Staff"	"Scranton School for Deaf and Hard of Hearing Children"		Daigle	Jamie	jamie.daigle				jdaigle@thescrantonschool.org
+"Nursing Staff"	"Scranton School for Deaf and Hard of Hearing Children"		Butler	Mary	mary.butler				mbutler@thescrantonschool.org
+"Nursing Staff"	"Western Pennsylvania School for the Deaf"		Butler	Mary	mary.butler				mbutler@thescrantonschool.org
+"Support Staff"	"Scranton School for Deaf and Hard of Hearing Children"		"Bailey Busch"	Jacqueline	jacqueline.baileybusch				jbailey@thescrantonschool.org
+"Support Staff"	"Scranton School for Deaf and Hard of Hearing Children"		Gregorowicz	Kim	kim.gregorowicz				kgregorowicz@thescrantonschool.org
+"Support Staff"	"Scranton School for Deaf and Hard of Hearing Children"		Arnal	Nicole	nicole.arnal				narnal@thescrantonschool.org
+"Support Staff"	"Scranton School for Deaf and Hard of Hearing Children"		Miller	Brooke	brooke.miller				bmiller@thescrantonschool.org
+"Support Staff"	"Scranton School for Deaf and Hard of Hearing Children"		Lukasavage	Emily	emily.lukasavage				elukasavage@thescrantonschool.org
+"Support Staff"	"Scranton School for Deaf and Hard of Hearing Children"		Rossi	Christine	christine.rossi				crossi@thescrantonschool.org
+"Support Staff"	"Scranton School for Deaf and Hard of Hearing Children"		Miller	Makaela	makaela.miller				mamiller@thescrantonschool.org
+"School Administrator (Non-Edit Rights)"	"Scranton School for Deaf and Hard of Hearing Children"	300029840	McDonough	Kevin	kevin.mcdonough				kmcdonough@wpsd.org
+"School Administrator (Non-Edit Rights)"	"Western Pennsylvania School for the Deaf"	300029840	McDonough	Kevin	kevin.mcdonough				kmcdonough@wpsd.org
+"General Staff"	"Scranton School for Deaf and Hard of Hearing Children"		Emmons	Matthew	matthew.emmons				memmons@thescrantonschool.org
+"General Staff"	"Scranton School for Deaf and Hard of Hearing Children"		Rosas	Alina	alina.rosas				arosas@thescrantonschool.org
+"General Staff"	"Scranton School for Deaf and Hard of Hearing Children"		Keen	Matthew	matthew.keen				mkeen@thescrantonschool.org
+"General Staff"	"Scranton School for Deaf and Hard of Hearing Children"		Elkins	Timothy	timothy.elkins				telkins@thescrantonschool.org
+"General Staff"	"Scranton School for Deaf and Hard of Hearing Children"		Bates	Autumn	autumn.bates				abates@thescrantonschool.org
+"General Staff"	"Scranton School for Deaf and Hard of Hearing Children"		Snopek	Marjorie	marjorie.snopek				msnopek@thescrantonschool.org
+"General Staff"	"Scranton School for Deaf and Hard of Hearing Children"		Mozdian	Marc	marc.mozdian				mmozdian@thescrantonschool.org
+"General Staff"	"Scranton School for Deaf and Hard of Hearing Children"		Townsend	Tim	tim.townsend				ttownsend@thescrantonschool.org
+"General Staff"	"Scranton School for Deaf and Hard of Hearing Children"		Grosvenor	Steven	steven.grosvenor				sgrosvenor@thescrantonschool.org
+"General Staff"	"Scranton School for Deaf and Hard of Hearing Children"		VanWert	Earl	earl.vanwert				evanwert@thescrantonschool.org
+"General Staff"	"Scranton School for Deaf and Hard of Hearing Children"		Shaulis	Renea	renea.shaulis				rshaulis@thescrantonschool.org
+Teacher	"Scranton School for Deaf and Hard of Hearing Children"		Pearson	Jennifer	jennifer.pearson1				jpearson@thescrantonschool.org
+"General Staff"	"Scranton School for Deaf and Hard of Hearing Children"		Pronko	Paul	paul.pronko				ppronko@thescrantonschool.org
+"General Staff"	"Scranton School for Deaf and Hard of Hearing Children"		Pronko	Ron	ron.pronko				rpronko@thescrantonschool.org
+"General Staff"	"Scranton School for Deaf and Hard of Hearing Children"		Reuther	Robert	robert.reuther				rreuther@thescrantonschool.org
+"General Staff"	"Scranton School for Deaf and Hard of Hearing Children"		Mullally	Sharon	sharon.mullally				smullally@thescrantonschool.org
+"General Staff"	"Scranton School for Deaf and Hard of Hearing Children"		Kirby	Mark	mark.kirby				mkirby@thescrantonschool.org
+"General Staff"	"Scranton School for Deaf and Hard of Hearing Children"		King	Senoy	senoy.king				sking@thescrantonschool.org
+"General Staff"	"Scranton School for Deaf and Hard of Hearing Children"		Jones	Adam	adam.jones				adjones@thescrantonschool.org
+"General Staff"	"Scranton School for Deaf and Hard of Hearing Children"		Lasher	Kyle	kyle.lasher				klasher@thescrantonschool.org
+"General Staff"	"Scranton School for Deaf and Hard of Hearing Children"		Hubbard	Megan	megan.hubbard				mhubbard@thescrantonschool.org
+"General Staff"	"Scranton School for Deaf and Hard of Hearing Children"		D'Alessandro	Sara	sara.d'alessandro				sdalessandro@thescrantonschool.org
+"General Staff"	"Scranton School for Deaf and Hard of Hearing Children"		Bartholomee	Suzette	suzette.bartholomee1				sbartholomee@thescrantonschool.org
+"General Staff"	"Scranton School for Deaf and Hard of Hearing Children"		Hart	Hannah	hannah.hart				hhart@thescrantonschool.org
+Teacher	"Scranton School for Deaf and Hard of Hearing Children"		Everswick	Lisa	lisa.everswick				leverswick@thescrantonschool.org
+"General Staff"	"Scranton School for Deaf and Hard of Hearing Children"		Glassmeyer	Michelle	michelle.glassmeyer1				mglassmeyer@thescrantonschool.org
+Teacher	"Scranton School for Deaf and Hard of Hearing Children"		Wilson	Cindy	cindy.wilson				cwilson@thescrantonschool.org
+Teacher	"Scranton School for Deaf and Hard of Hearing Children"		Somers	Kelly	kelly.somers				ksomers@thescrantonschool.org
+Teacher	"Scranton School for Deaf and Hard of Hearing Children"		Treat	Linda	linda.treat				ltreat@thescrantonschool.org
+Teacher	"Scranton School for Deaf and Hard of Hearing Children"		Pliska	Kathy	kathy.pliska				kpliska@thescrantonschool.org
+Teacher	"Scranton School for Deaf and Hard of Hearing Children"		Nati	Elizabeth	elizabeth.nati				enati@thescrantonschool.org
+Teacher	"Scranton School for Deaf and Hard of Hearing Children"		Kirshbaum	Danielle	danielle.kirshbaum				dkirshbaum@thescrantonschool.org
+Teacher	"Scranton School for Deaf and Hard of Hearing Children"		Haskins	Kayla	kayla.haskins				khaskins@thescrantonschool.org
+Teacher	"Scranton School for Deaf and Hard of Hearing Children"		Mantz	Josiah	josiah.mantz				jmantz@thescrantonschool.org
+Teacher	"Scranton School for Deaf and Hard of Hearing Children"		Hilburn	Kathleen	kathleen.hilburn				khilburn@thescrantonschool.org
+Teacher	"Scranton School for Deaf and Hard of Hearing Children"		Campbell	Michelle	michelle.campbell				mcampbell@thescrantonschool.org
+Teacher	"Scranton School for Deaf and Hard of Hearing Children"		Flanagan	Mackenzie	mackenzie.flanagan				mflanagan@thescrantonschool.org
+Teacher	"Scranton School for Deaf and Hard of Hearing Children"		Hammer	Stacy	stacy.hammer				shammer@thescrantonschool.org
+Teacher	"Scranton School for Deaf and Hard of Hearing Children"		Almekinder	Byron	byron.almekinder				balmekinder@thescrantonschool.org
+"Support Staff (with minimal edit rights- address/phone)"	"Scranton School for Deaf and Hard of Hearing Children"		Manzano	Maureen	maureen.manzano				mmanzano@thescrantonschool.org
+Teacher	"Scranton School for Deaf and Hard of Hearing Children"		Campbell	Bridgette	bridgette.campbell				bcampbell@thescrantonschool.org
+"General Staff"	"Scranton School for Deaf and Hard of Hearing Children"		McNeill	Diane	diane.mcneill				dmcneill@thescrantonschool.org
+Teacher	"Scranton School for Deaf and Hard of Hearing Children"		Heil	Robert	robert.heil				rheil@thescrantonschool.org
+Teacher	"Scranton School for Deaf and Hard of Hearing Children"		Cosgrove	Eileen	eileen.cosgrove				ecosgrove@thescrantonschool.org
+"School Administrator"	"Scranton School for Deaf and Hard of Hearing Children"		Stewart	Jason	jason.stewart	300029840			jstewart@idealintegrations.net
+"School Administrator"	"Western Pennsylvania School for the Deaf"		Stewart	Jason	jason.stewart	300029840			jstewart@idealintegrations.net
+"School Administrator (Non-Edit Rights)"	"Scranton School for Deaf and Hard of Hearing Children"		Briggs	Sarah	sarah.briggs				sbriggs@thescrantonschool.org
+"General Staff"	"Scranton School for Deaf and Hard of Hearing Children"		Lane	Donna	donna.lane				dlane@thescrantonschool.org
+Teacher	"Scranton School for Deaf and Hard of Hearing Children"		Janssen	Denise	denise.janssen				djanssen@thescrantonschool.org
+Teacher	"Western Pennsylvania School for the Deaf"		Crawford	Melinda	melinda.crawford	300029840			mcrawford@wpsd.org
+Teacher	"Western Pennsylvania School for the Deaf"		Pennetti	Stephanie	stephanie.pennetti	300029840			spennetti@wpsd.org
+Teacher	"Western Pennsylvania School for the Deaf"		Beard	Rush	rush.beard	300029840			rbeard@wpsd.org
+Teacher	"Western Pennsylvania School for the Deaf"		Shimko	Mikaela	mikaela.shimko	300029840			mshimko@wpsd.org
+"Support Staff"	"Scranton School for Deaf and Hard of Hearing Children"		Casey	Molly	molly.casey				mcasey@thescrantonschool.org
+"Support Staff"	"Western Pennsylvania School for the Deaf"		Guarino	Kelly	kelly.guarino	300029840			kguarino@wpsd.org
+Teacher	"Western Pennsylvania School for the Deaf"		Flowers	Sarah	sarah.flowers	300029840			sflowers@wpsd.org
+Teacher	"Western Pennsylvania School for the Deaf"		Lee	Katharine	katharine.lee				klee@wpsd.org
+"General Staff"	"Western Pennsylvania School for the Deaf"		McDonald	David	david.mcdonald	300029840			dmcdonald@wpsd.org
+"Nursing Staff"	"Western Pennsylvania School for the Deaf"		Hopkins	Kathryne	kathryne.hopkins				khopkins@wpsd.org
+"Nursing Staff"	"Scranton School for Deaf and Hard of Hearing Children"		Hopkins	Kathryne	kathryne.hopkins				khopkins@wpsd.org
+"General Staff"	"Western Pennsylvania School for the Deaf"		Mitchell	John	john.mitchell	300029840			jmitchell@wpsd.org
+"General Staff"	"Western Pennsylvania School for the Deaf"		Davis	Terrance	terrance.davis	300029840			tdavis@wpsd.org
+"School Administrator (Non-Edit Rights)"	"Western Pennsylvania School for the Deaf"		Weissert	Dan	dan.weissert1	300029840			
+"School Administrator (Non-Edit Rights)"	"Scranton School for Deaf and Hard of Hearing Children"		Weissert	Dan	dan.weissert1	300029840			
+"School Administrator (Non-Edit Rights)"	"Scranton School for Deaf and Hard of Hearing Children"		Holliday	Jason	jason.holliday	300029840			jholliday@wpsd.org
+"School Administrator (Non-Edit Rights)"	"Western Pennsylvania School for the Deaf"		Holliday	Jason	jason.holliday	300029840			jholliday@wpsd.org

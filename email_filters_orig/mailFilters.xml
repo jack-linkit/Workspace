@@ -1,0 +1,417 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns='http://www.w3.org/2005/Atom' xmlns:apps='http://schemas.google.com/apps/2006'>
+	<title>Mail Filters</title>
+	<id>tag:mail.google.com,2008:filters:z0000001690596758926*2129658028896626331,z0000001690596882222*8176020948980814567,z0000001690597356057*6837502443757777912,z0000001690728418293*2724068464311842885,z0000001690728667497*3620808398231932577,z0000001690728725985*7132033114220538955,z0000001690729128305*5359450568723526716,z0000001690729149467*0834146697993828004,z0000001690729216178*1868613465767686015,z0000001690729315300*3897576494360329456,z0000001690729575327*1702125029446787601,z0000001690729932368*6555330174513867461,z0000001690729981506*4702412404913367766,z0000001690730040538*8260392329708345701,z0000001690730102672*1804352713222915466,z0000001690730216634*1088259253852004009,z0000001690730322365*2691498531461889887,z0000001690730388104*3656734305111642050,z0000001690730453556*8313147639465582440,z0000001690730540727*8802822157023340534,z0000001690730556517*7536746944619666502,z0000001690730599374*1838192021612927465,z0000001690730660051*1106567490198827199,z0000001690730719396*3451472560581399813,z0000001690730805931*4329595376589028460,z0000001690730845936*4019959536978931302,z0000001690731013536*3088346378376612655,z0000001690731067514*6269476326012735659,z0000001690731130970*7900279297117414019,z0000001690734851217*2640966312940306813,z0000001690734910752*6602349237043519367,z0000001690735030878*8761075746209695594,z0000001690735064066*7123024938077214641,z0000001690735144918*1148355274980066728,z0000001690735197566*3647687012664930407,z0000001690735235602*7482814674357386566,z0000001690813539894*7014210623556047778</id>
+	<updated>2023-07-31T15:09:22Z</updated>
+	<author>
+		<name>Jack O'Connor</name>
+		<email>jack@linkit.com</email>
+	</author>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001690596758926*2129658028896626331</id>
+		<updated>2023-07-31T15:09:22Z</updated>
+		<content></content>
+		<apps:property name='from' value='*@barringtonschools.net'/>
+		<apps:property name='label' value='Barrington'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001690596882222*8176020948980814567</id>
+		<updated>2023-07-31T15:09:22Z</updated>
+		<content></content>
+		<apps:property name='from' value='*@bayheadschool.org'/>
+		<apps:property name='label' value='Bay Head'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001690597356057*6837502443757777912</id>
+		<updated>2023-07-31T15:09:22Z</updated>
+		<content></content>
+		<apps:property name='from' value='*@belvideresd.org'/>
+		<apps:property name='label' value='Belvidere'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001690728418293*2724068464311842885</id>
+		<updated>2023-07-31T15:09:22Z</updated>
+		<content></content>
+		<apps:property name='from' value='*@bergen.org'/>
+		<apps:property name='label' value='Bergen County'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001690728667497*3620808398231932577</id>
+		<updated>2023-07-31T15:09:22Z</updated>
+		<content></content>
+		<apps:property name='from' value='*@brielleschool.org'/>
+		<apps:property name='label' value='Brielle'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001690728725985*7132033114220538955</id>
+		<updated>2023-07-31T15:09:22Z</updated>
+		<content></content>
+		<apps:property name='from' value='*@cheltenham.org'/>
+		<apps:property name='label' value='Cheltenham Township'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001690729128305*5359450568723526716</id>
+		<updated>2023-07-31T15:09:22Z</updated>
+		<content></content>
+		<apps:property name='from' value='*@colonialsd.org'/>
+		<apps:property name='label' value='Colonial'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001690729149467*0834146697993828004</id>
+		<updated>2023-07-31T15:09:22Z</updated>
+		<content></content>
+		<apps:property name='from' value='*@cvcolonials.org'/>
+		<apps:property name='label' value='Conewago'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001690729216178*1868613465767686015</id>
+		<updated>2023-07-31T15:09:22Z</updated>
+		<content></content>
+		<apps:property name='from' value='*@dsdhs.com'/>
+		<apps:property name='label' value='Dallas HS'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001690729315300*3897576494360329456</id>
+		<updated>2023-07-31T15:09:22Z</updated>
+		<content></content>
+		<apps:property name='from' value='*@fhasd.org'/>
+		<apps:property name='label' value='Fort Huachuca'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001690729575327*1702125029446787601</id>
+		<updated>2023-07-31T15:09:22Z</updated>
+		<content></content>
+		<apps:property name='from' value='*@gmrsd.org'/>
+		<apps:property name='label' value='Gill Montague'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001690729932368*6555330174513867461</id>
+		<updated>2023-07-31T15:09:22Z</updated>
+		<content></content>
+		<apps:property name='from' value='*@gehrhsd.net'/>
+		<apps:property name='label' value='Greater Egg Harbor'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001690729981506*4702412404913367766</id>
+		<updated>2023-07-31T15:09:22Z</updated>
+		<content></content>
+		<apps:property name='from' value='*@hackensackschools.org'/>
+		<apps:property name='label' value='Hackensack'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001690730040538*8260392329708345701</id>
+		<updated>2023-07-31T15:09:22Z</updated>
+		<content></content>
+		<apps:property name='from' value='*@haddontwpschools.com'/>
+		<apps:property name='label' value='Haddon Township'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001690730102672*1804352713222915466</id>
+		<updated>2023-07-31T15:09:22Z</updated>
+		<content></content>
+		<apps:property name='from' value='*@jtowndrakes.org, *@jenkintown.org'/>
+		<apps:property name='label' value='Jenkintown'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001690730216634*1088259253852004009</id>
+		<updated>2023-07-31T15:09:22Z</updated>
+		<content></content>
+		<apps:property name='from' value='*@lehsd.org'/>
+		<apps:property name='label' value='Little Egg Harbor'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001690730322365*2691498531461889887</id>
+		<updated>2023-07-31T15:09:22Z</updated>
+		<content></content>
+		<apps:property name='from' value='*@littlesilverschools.org'/>
+		<apps:property name='label' value='Little Silver'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001690730388104*3656734305111642050</id>
+		<updated>2023-07-31T15:09:22Z</updated>
+		<content></content>
+		<apps:property name='from' value='*@lmtsd.org'/>
+		<apps:property name='label' value='Lower Moreland'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001690730453556*8313147639465582440</id>
+		<updated>2023-07-31T15:09:22Z</updated>
+		<content></content>
+		<apps:property name='from' value='*@methacton.org'/>
+		<apps:property name='label' value='Methacton'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001690730540727*8802822157023340534</id>
+		<updated>2023-07-31T15:09:22Z</updated>
+		<content></content>
+		<apps:property name='from' value='*@metboe.k12.nj.us'/>
+		<apps:property name='label' value='Metuchen'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001690730556517*7536746944619666502</id>
+		<updated>2023-07-31T15:09:22Z</updated>
+		<content></content>
+		<apps:property name='from' value='*@mwsd.cc'/>
+		<apps:property name='label' value='Midd-West'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001690730599374*1838192021612927465</id>
+		<updated>2023-07-31T15:09:22Z</updated>
+		<content></content>
+		<apps:property name='from' value='*@sad55.org'/>
+		<apps:property name='label' value='MSAD 55'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001690730660051*1106567490198827199</id>
+		<updated>2023-07-31T15:09:22Z</updated>
+		<content></content>
+		<apps:property name='from' value='*@oceanacademycs.org'/>
+		<apps:property name='label' value='Ocean Academy'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001690730719396*3451472560581399813</id>
+		<updated>2023-07-31T15:09:22Z</updated>
+		<content></content>
+		<apps:property name='from' value='*@palmerschools.org'/>
+		<apps:property name='label' value='Palmer'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001690730805931*4329595376589028460</id>
+		<updated>2023-07-31T15:09:22Z</updated>
+		<content></content>
+		<apps:property name='from' value='*@prsdnj.org'/>
+		<apps:property name='label' value='Pinelands'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001690730845936*4019959536978931302</id>
+		<updated>2023-07-31T15:09:22Z</updated>
+		<content></content>
+		<apps:property name='from' value='*@pottstownk12.org'/>
+		<apps:property name='label' value='Pottstown'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001690731013536*3088346378376612655</id>
+		<updated>2023-07-31T15:09:22Z</updated>
+		<content></content>
+		<apps:property name='from' value='*@region-12.org'/>
+		<apps:property name='label' value='Region 12'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001690731067514*6269476326012735659</id>
+		<updated>2023-07-31T15:09:22Z</updated>
+		<content></content>
+		<apps:property name='from' value='*@rockwoodschools.org'/>
+		<apps:property name='label' value='Rockwood Area'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001690731130970*7900279297117414019</id>
+		<updated>2023-07-31T15:09:22Z</updated>
+		<content></content>
+		<apps:property name='from' value='*@roselleschools.org'/>
+		<apps:property name='label' value='Roselle Public'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001690734851217*2640966312940306813</id>
+		<updated>2023-07-31T15:09:22Z</updated>
+		<content></content>
+		<apps:property name='from' value='*@rsu1.org'/>
+		<apps:property name='label' value='RSU 1'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001690734910752*6602349237043519367</id>
+		<updated>2023-07-31T15:09:22Z</updated>
+		<content></content>
+		<apps:property name='from' value='*@sacoschools.org'/>
+		<apps:property name='label' value='Saco'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001690735030878*8761075746209695594</id>
+		<updated>2023-07-31T15:09:22Z</updated>
+		<content></content>
+		<apps:property name='from' value='*@sandwich.k12.ma.us'/>
+		<apps:property name='label' value='Sandwich'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001690735064066*7123024938077214641</id>
+		<updated>2023-07-31T15:09:22Z</updated>
+		<content></content>
+		<apps:property name='from' value='*@stonehamschools.org'/>
+		<apps:property name='label' value='Stoneham'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001690735144918*1148355274980066728</id>
+		<updated>2023-07-31T15:09:22Z</updated>
+		<content></content>
+		<apps:property name='from' value='*@lmtsd.org'/>
+		<apps:property name='label' value='Waterford'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001690735197566*3647687012664930407</id>
+		<updated>2023-07-31T15:09:22Z</updated>
+		<content></content>
+		<apps:property name='from' value='*@wpsd.org'/>
+		<apps:property name='label' value='Western PA School for the Deaf'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001690735235602*7482814674357386566</id>
+		<updated>2023-07-31T15:09:22Z</updated>
+		<content></content>
+		<apps:property name='from' value='*@whsd.org'/>
+		<apps:property name='label' value='Westmont Hilltop'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001690813539894*7014210623556047778</id>
+		<updated>2023-07-31T15:09:22Z</updated>
+		<content></content>
+		<apps:property name='from' value='*@glenburnschool.us'/>
+		<apps:property name='label' value='Glenburn'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+</feed>

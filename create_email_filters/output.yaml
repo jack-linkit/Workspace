@@ -1,0 +1,153 @@
+for_each:
+- domain: barringtonschools.net
+  label: ' Barrington'
+- domain: bayheadschool.org
+  label: ' Bay Head'
+- domain: belvideresd.org
+  label: ' Belvidere'
+- domain: bergen.org
+  label: ' Bergen County'
+- domain: brielleschool.org
+  label: ' Brielle'
+- domain: cheltenham.org
+  label: ' Cheltenham Township'
+- domain: colonialsd.org
+  label: ' Colonial'
+- domain: cvcolonials.org
+  label: ' Conewago'
+- domain: dsdhs.com
+  label: ' Dallas HS'
+- domain: fhasd.org
+  label: ' Fort Huachuca'
+- domain: gmrsd.org
+  label: ' Gill Montague'
+- domain: gehrhsd.net
+  label: ' Greater Egg Harbor'
+- domain: hackensackschools.org
+  label: ' Hackensack'
+- domain: haddontwpschools.com
+  label: ' Haddon Township'
+- domain: jtowndrakes.org
+  label: ' Jenkintown'
+- domain: lehsd.org
+  label: ' Little Egg Harbor'
+- domain: littlesilverschools.org
+  label: ' Little Silver'
+- domain: lmtsd.org
+  label: ' Waterford'
+- domain: methacton.org
+  label: ' Methacton'
+- domain: metboe.k12.nj.us
+  label: ' Metuchen'
+- domain: mwsd.cc
+  label: ' TestNew'
+- domain: sad55.org
+  label: ' MSAD 55'
+- domain: oceanacademycs.org
+  label: ' Ocean Academy'
+- domain: palmerschools.org
+  label: ' Palmer'
+- domain: prsdnj.org
+  label: ' Pinelands'
+- domain: pottstownk12.org
+  label: ' Pottstown'
+- domain: region-12.org
+  label: ' Region 12'
+- domain: rockwoodschools.org
+  label: ' Rockwood Area'
+- domain: roselleschools.org
+  label: ' Roselle Public'
+- domain: rsu1.org
+  label: ' RSU 1'
+- domain: sacoschools.org
+  label: ' Saco'
+- domain: sandwich.k12.ma.us
+  label: ' Sandwich'
+- domain: stonehamschools.org
+  label: ' Stoneham'
+- domain: wpsd.org
+  label: ' Western PA School for the Deaf'
+- domain: whsd.org
+  label: ' Westmont Hilltop'
+- domain: glenburnschool.us
+  label: ' Glenburn'
+rule:
+  label: '{label}'
+  to: '{domain}'
+
+for_each:
+- domain: barringtonschools.net
+  label: ' Barrington'
+- domain: bayheadschool.org
+  label: ' Bay Head'
+- domain: belvideresd.org
+  label: ' Belvidere'
+- domain: bergen.org
+  label: ' Bergen County'
+- domain: brielleschool.org
+  label: ' Brielle'
+- domain: cheltenham.org
+  label: ' Cheltenham Township'
+- domain: colonialsd.org
+  label: ' Colonial'
+- domain: cvcolonials.org
+  label: ' Conewago'
+- domain: dsdhs.com
+  label: ' Dallas HS'
+- domain: fhasd.org
+  label: ' Fort Huachuca'
+- domain: gmrsd.org
+  label: ' Gill Montague'
+- domain: gehrhsd.net
+  label: ' Greater Egg Harbor'
+- domain: hackensackschools.org
+  label: ' Hackensack'
+- domain: haddontwpschools.com
+  label: ' Haddon Township'
+- domain: jtowndrakes.org
+  label: ' Jenkintown'
+- domain: lehsd.org
+  label: ' Little Egg Harbor'
+- domain: littlesilverschools.org
+  label: ' Little Silver'
+- domain: lmtsd.org
+  label: ' Waterford'
+- domain: methacton.org
+  label: ' Methacton'
+- domain: metboe.k12.nj.us
+  label: ' Metuchen'
+- domain: mwsd.cc
+  label: ' TestNew'
+- domain: sad55.org
+  label: ' MSAD 55'
+- domain: oceanacademycs.org
+  label: ' Ocean Academy'
+- domain: palmerschools.org
+  label: ' Palmer'
+- domain: prsdnj.org
+  label: ' Pinelands'
+- domain: pottstownk12.org
+  label: ' Pottstown'
+- domain: region-12.org
+  label: ' Region 12'
+- domain: rockwoodschools.org
+  label: ' Rockwood Area'
+- domain: roselleschools.org
+  label: ' Roselle Public'
+- domain: rsu1.org
+  label: ' RSU 1'
+- domain: sacoschools.org
+  label: ' Saco'
+- domain: sandwich.k12.ma.us
+  label: ' Sandwich'
+- domain: stonehamschools.org
+  label: ' Stoneham'
+- domain: wpsd.org
+  label: ' Western PA School for the Deaf'
+- domain: whsd.org
+  label: ' Westmont Hilltop'
+- domain: glenburnschool.us
+  label: ' Glenburn'
+rule:
+  from: '{domain}'
+  label: '{label}'

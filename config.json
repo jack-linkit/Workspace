@@ -1,0 +1,328 @@
+{
+    "Files": [
+        {
+            "Type": "Data",
+            "KeyWords": [
+                "diagnostic_results_math"
+            ]
+        }
+    ],
+    "virtualTestCustomScoreID": 16637,
+    "achievementLevelSettingID": 1212,
+    "IReadySettings": {
+        "SchoolTermMonths": [
+            {
+                "name": "Fall",
+                "months": [
+                    8,
+                    9,
+                    10,
+                    11
+                ]
+            },
+            {
+                "name": "Winter",
+                "months": [
+                    12,
+                    1,
+                    2
+                ]
+            },
+            {
+                "name": "Spring",
+                "months": [
+                    3,
+                    4,
+                    5,
+                    6,
+                    7
+                ]
+            }
+        ],
+        "schoolMappings": [
+            {
+                "name": "Frog Pond Elementary School",
+                "code": "030"
+            },
+            {
+                "name": "GEORGE J MITCHELL ELEM SCHOOL",
+                "code": "050"
+            }
+        ],
+        "RaceMappings": [
+            {
+                "name": "American Indian or Alaska Native",
+                "value": "I"
+            },
+            {
+                "name": "Asian",
+                "value": "A"
+            },
+            {
+                "name": "Black or African American",
+                "value": "B"
+            },
+            {
+                "name": "Hispanic",
+                "value": "H"
+            },
+            {
+                "name": "White",
+                "value": "W"
+            },
+            {
+                "name": "Native Hawaiian or Other Pacific Islander",
+                "value": "P"
+            },
+            {
+                "name": "Two or More Races",
+                "value": "M"
+            },
+            {
+                "name": "Unknown",
+                "value": "U"
+            }
+        ],
+        "RushFlagMappings": [
+            {
+                "name": "Yellow Rush Flag",
+                "value": 1
+            },
+            {
+                "name": "Red Rush Flag",
+                "value": 2
+            }
+        ]
+    },
+    "FileTemplateSettings": [
+        {
+            "FileType": "Data",
+            "InputFileColumns": [
+                {
+                    "InputFileColumnIndex": 0,
+                    "InputFileColumnName": "Last Name"
+                },
+                {
+                    "InputFileColumnIndex": 1,
+                    "InputFileColumnName": "First Name"
+                },
+                {
+                    "InputFileColumnIndex": 2,
+                    "InputFileColumnName": "Student ID"
+                },
+                {
+                    "InputFileColumnIndex": 3,
+                    "InputFileColumnName": "Student Grade"
+                },
+                {
+                    "InputFileColumnIndex": 4,
+                    "InputFileColumnName": "Academic Year"
+                },
+                {
+                    "InputFileColumnIndex": 5,
+                    "InputFileColumnName": "School"
+                },
+                {
+                    "InputFileColumnIndex": 8,
+                    "InputFileColumnName": "Sex"
+                },
+                {
+                    "InputFileColumnIndex": 10,
+                    "InputFileColumnName": "Race"
+                },
+                {
+                    "InputFileColumnIndex": 11,
+                    "InputFileColumnName": "English Language Learner"
+                },
+                {
+                    "InputFileColumnIndex": 12,
+                    "InputFileColumnName": "Special Education"
+                },
+                {
+                    "InputFileColumnIndex": 13,
+                    "InputFileColumnName": "Economically Disadvantaged"
+                },
+                {
+                    "InputFileColumnIndex": 14,
+                    "InputFileColumnName": "Migrant"
+                },
+                {
+                    "InputFileColumnIndex": 19,
+                    "InputFileColumnName": "Completion Date"
+                },
+                {
+                    "InputFileColumnIndex": 22,
+                    "InputFileColumnName": "Duration (min)"
+                },
+                {
+                    "InputFileColumnIndex": 23,
+                    "InputFileColumnName": "Rush Flag"
+                },
+                {
+                    "InputFileColumnIndex": 24,
+                    "InputFileColumnName": "Overall Scale Score"
+                },
+                {
+                    "InputFileColumnIndex": 26,
+                    "InputFileColumnName": "Overall Relative Placement"
+                },
+                {
+                    "InputFileColumnIndex": 27,
+                    "InputFileColumnName": "Percentile"
+                },
+                {
+                    "InputFileColumnIndex": 29,
+                    "InputFileColumnName": "Quantile Measure"
+                },
+                {
+                    "InputFileColumnIndex": 31,
+                    "InputFileColumnName": "Number and Operations Scale Score"
+                },
+                {
+                    "InputFileColumnIndex": 32,
+                    "InputFileColumnName": "Number and Operations Placement"
+                },
+                {
+                    "InputFileColumnIndex": 33,
+                    "InputFileColumnName": "Number and Operations Relative Placement"
+                },
+                {
+                    "InputFileColumnIndex": 34,
+                    "InputFileColumnName": "Algebra and Algebraic Thinking Scale Score"
+                },
+                {
+                    "InputFileColumnIndex": 35,
+                    "InputFileColumnName": "Algebra and Algebraic Thinking Placement"
+                },
+                {
+                    "InputFileColumnIndex": 36,
+                    "InputFileColumnName": "Algebra and Algebraic Thinking Relative Placement"
+                },
+                {
+                    "InputFileColumnIndex": 37,
+                    "InputFileColumnName": "Measurement and Data Scale Score"
+                },
+                {
+                    "InputFileColumnIndex": 38,
+                    "InputFileColumnName": "Measurement and Data Placement"
+                },
+                {
+                    "InputFileColumnIndex": 39,
+                    "InputFileColumnName": "Measurement and Data Relative Placement"
+                },
+                {
+                    "InputFileColumnIndex": 40,
+                    "InputFileColumnName": "Geometry Scale Score"
+                },
+                {
+                    "InputFileColumnIndex": 41,
+                    "InputFileColumnName": "Geometry Placement"
+                },
+                {
+                    "InputFileColumnIndex": 42,
+                    "InputFileColumnName": "Geometry Relative Placement"
+                },
+                {
+                    "InputFileColumnIndex": 44,
+                    "InputFileColumnName": "Annual Typical Growth Measure"
+                },
+                {
+                    "InputFileColumnIndex": 45,
+                    "InputFileColumnName": "Annual Stretch Growth Measure"
+                },
+                {
+                    "InputFileColumnIndex": 46,
+                    "InputFileColumnName": "Percent Progress to Annual Typical Growth (%)"
+                },
+                {
+                    "InputFileColumnIndex": 47,
+                    "InputFileColumnName": "Percent Progress to Annual Stretch Growth (%)"
+                },
+                {
+                    "InputFileColumnIndex": 48,
+                    "InputFileColumnName": "Mid On Grade Level Scale Score"
+                }
+            ]
+        }
+    ],
+    "OutputFileColumns": [
+        {
+            "Calc": "OVERALL_SCALE_SCORE",
+            "OutputFileColumnName": "Scaled"
+        },
+        {
+            "Calc": "PERCENTILE",
+            "OutputFileColumnName": "Percentile"
+        },
+        {
+            "Calc": "OVERALL_RELATIVE_PLACEMENT",
+            "OutputFileColumnName": "Performance Level Code"
+        },
+        {
+            "Calc": "ENGLISH_LANGUAGE_LEARNER",
+            "OutputFileColumnName": "Pgm 1"
+        },
+        {
+            "Calc": "SPECIAL_EDUCATION",
+            "OutputFileColumnName": "Pgm 2"
+        },
+        {
+            "Calc": "ECONOMICALLY_DISADVANTAGED",
+            "OutputFileColumnName": "Pgm 3"
+        },
+        {
+            "Calc": "MIGRANT",
+            "OutputFileColumnName": "Pgm 4"
+        },
+        {
+            "Calc": "NUMBER_AND_OPERATIONS",
+            "OutputFileColumnName": "Cluster 1 Scaled"
+        },
+        {
+            "Calc": "ALGEBRAIC_THINKING",
+            "OutputFileColumnName": "Cluster 2 Scaled"
+        },
+        {
+            "Calc": "MEASUREMENT_AND_DATA",
+            "OutputFileColumnName": "Cluster 3 Scaled"
+        },
+        {
+            "Calc": "GEOMETRY",
+            "OutputFileColumnName": "Cluster 4 Scaled"
+        },
+        {
+            "Calc": "RUSH_FLAG",
+            "OutputFileColumnName": "Cluster 5 Numeric_1"
+        },
+        {
+            "Calc": "QUANTILE_MEASURE",
+            "OutputFileColumnName": "Cluster 10 Scaled"
+        },
+        {
+            "Calc": "ANNUAL_TYPICAL_GROWTH",
+            "OutputFileColumnName": "Cluster 6 Scaled"
+        },
+        {
+            "Calc": "PERCENT_PROGRESS_TO_ANNUAL_TYPICAL_GROWTH",
+            "OutputFileColumnName": "Cluster 6 Numeric_1"
+        },
+        {
+            "Calc": "ANNUAL_STRETCH_GROWTH",
+            "OutputFileColumnName": "Cluster 7 Scaled"
+        },
+        {
+            "Calc": "PERCENT_PROGRESS_TO_ANNUAL_STRETCH_GROWTH",
+            "OutputFileColumnName": "Cluster 7 Numeric_1"
+        },
+        {
+            "Calc": "MID_ON_GRADE_LEVEL_SCALE_SCORE",
+            "OutputFileColumnName": "Cluster 8 Scaled",
+            "SubScoreName": "Mid On Grade Level Score"
+        },
+        {
+            "Calc": "DURATION_MIN",
+            "SubScoreName": "Duration",
+            "OutputFileColumnName": "Cluster 9 Numeric_1"
+        }
+    ]
+}

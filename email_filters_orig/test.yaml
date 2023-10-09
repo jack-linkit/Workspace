@@ -1,0 +1,6 @@
+  for_each:
+    - {label: label1, domain: domain1.com}
+    - {label: label2, domain: domain2.com}
+  rule:
+    to: "*@{domain}"
+    label: "{label}"

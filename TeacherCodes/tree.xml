@@ -1,0 +1,13 @@
+<Resource>
+    <ResourceType>SFTP</ResourceType>
+    <ResourceInfo>
+        <Address>sftp.i-ready.com</Address>
+        <Account>
+            <UserName>linkit</UserName>
+            <Password>A5FbTXuAqk6cR6yG</Password>
+        </Account>
+        <Folder>/exports/nj-little_egg/Current_year</Folder>
+        <SshHostKeyFingerprint>ssh-rsa 2048 50:b8:ba:3c:a1:0f:51:7e:77:8f:6e:42:45:16:a5:dc</SshHostKeyFingerprint>
+        <SshPrivateKeyPath/>
+    </ResourceInfo>
+</Resource>

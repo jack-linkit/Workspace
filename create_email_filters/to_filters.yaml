@@ -1,0 +1,76 @@
+for_each:
+- domain: Email Domain
+  label: Label
+- domain: 21cccs.org
+  label: 21st Century
+- domain: bensalemsd.org
+  label: Bensalem
+- domain: bcit.cc
+  label: Burlington County Institute of Technology
+- domain: cgsd.org
+  label: Central Greene
+- domain: ctasd.org
+  label: Conemaugh Township
+- domain: cranburyschool.org
+  label: Cranbury
+- domain: dasd.us
+  label: Derry Area
+- domain: dunmoreschooldistrict.net
+  label: Dunmore
+- domain: elcosd.org
+  label: Eastern Lebanon County
+- domain: easternyork.net
+  label: Eastern York
+- domain: epps.org
+  label: Elmwood Park
+- domain: fhrangers.org
+  label: Forest Hills
+- domain: franklinschool.org
+  label: Franklin Township
+- domain: freeholdboro.k12.nj.us
+  label: Freehold Borough
+- domain: gmrsd.com
+  label: Great Meadows Regional
+- domain: greaterbrunswick.org
+  label: Greater Brunswick
+- domain: gjsd.net
+  label: Greater Johnstown Area SD
+- domain: hainesport.k12.nj.us
+  label: Hainesport Township
+- domain: kenilworthschools.com
+  label: Kenilworth
+- domain: ltsd.org
+  label: Lackawanna Trail
+- domain: middlesex.k12.nj.us
+  label: Middlesex
+- domain: mv.org
+  label: Morrisville
+- domain: navikings.org
+  label: North Arlington
+- domain: paramusschools.org
+  label: Paramus
+- domain: pennsmanor.org
+  label: Penns Manor
+- domain: pasteam.org
+  label: Pennsylvania STEAM
+- domain: pittstonarea.com
+  label: Pittston Area
+- domain: punxsy.k12.pa.us
+  label: Punxsutawney Area
+- domain: roselandnjboe.org
+  label: Roseland
+- domain: sbpsnj.org
+  label: Saddle Brook
+- domain: sayrevillek12.net
+  label: Sayreville
+- domain: shmemorial.org
+  label: South Hackensack
+- domain: spring-ford.net
+  label: Spring-Ford
+- domain: tabschools.org
+  label: Tabernacle
+- domain: shsd.org
+  label: Somerset
+rule:
+  label: '{label}'
+  to: '*@{domain}'
